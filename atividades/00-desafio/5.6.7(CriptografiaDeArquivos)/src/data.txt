@@ -1,0 +1,3 @@
+Hello, this is an example file.
+Adding more content to the file.
+You can write any text you want!
